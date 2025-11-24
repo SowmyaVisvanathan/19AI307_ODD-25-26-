@@ -22,11 +22,9 @@ To write a Java program that converts a string input into an integer using the I
 8. End the program.
 ## PROGRAM:
  ```
-/*
 Program to implement a Wrapper Class using Java
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Sowmya V
+RegisterNumber:  212222110045
 ```
 
 ## SOURCE CODE:
@@ -62,3 +60,4 @@ class prog
 
 ## RESULT:
 The program successfully uses the Integer wrapper class to convert the input string into an integer, reverses the number using arithmetic operations, and correctly determines whether the original number is a palindrome.
+
